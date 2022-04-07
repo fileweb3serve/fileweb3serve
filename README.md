@@ -8,7 +8,7 @@
 
 ## 游戏演示链接 https://cats.kccpoc.io/#/  <br>
 
-## 游戏玩法 https://github.com/fileweb3serve/document/raw/main/1.mp4 <br>
+## 游戏玩法 https://raw.githubusercontent.com/fileweb3serve/document/main/HowToPlay.mp4 <br>
 
 ## 元宇宙大乱斗2.0 <br>
 
