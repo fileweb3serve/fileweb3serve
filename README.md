@@ -1,4 +1,4 @@
-![image](https://github.com/fileweb3serve/document/blob/main/yyy.png) <br>
+![image](https://raw.githubusercontent.com/fileweb3serve/document/main/logo.png)<br>
 
 # PVP元宇宙链游 <br>
 
