@@ -1,14 +1,14 @@
 ![image](https://raw.githubusercontent.com/fileweb3serve/document/main/logo.png)<br>
 
-# PVP链游 <br>
+# PVP Game <br>
 
-## 链游 Goerli测试网络  PVP模式  mud文字类链游 <br>
+##  Goerli TEST NETWORK    mud G <br>
 
 ## BlockWorld
 
-## 游戏演示链接 https://gamefi.skytest.club/#/home  <br>
+## Game Link https://gamefi.skytest.club/#/home  <br>
 
-## 游戏玩法 https://www.youtube.com/watch?v=DJMiIXzduI4 <br>
+## INSTRUCTIONS https://www.youtube.com/watch?v=DJMiIXzduI4 <br>
 
 
 
