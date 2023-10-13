@@ -10,7 +10,9 @@
 
 ## INSTRUCTIONS https://www.youtube.com/watch?v=DJMiIXzduI4 <br>
 
+## White Paper
 
+https://github.com/fileweb3serve/document/blob/main/Block-World.pdf <br>
 
 
 
