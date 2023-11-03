@@ -6,7 +6,7 @@
 
 ## BlockWorld
 
-## Game Link https://gamefi.skytest.club/#/home  <br>
+## Game Link https://gamefi.bweos.in  <br>
 
 ## INSTRUCTIONS https://www.youtube.com/watch?v=DJMiIXzduI4 <br>
 
