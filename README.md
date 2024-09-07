@@ -1,13 +1,13 @@
 ![image](https://raw.githubusercontent.com/fileweb3serve/document/main/logo.png)<br>
 # PVP Telegram Game <br>
 链武侠基于L2链上的非盈利性项目\n结合DEFI和NFT开放式玩法
-##1、输入‘激活姓名+门派’即可开始游戏。<br>
+1、输入‘激活姓名+门派’即可开始游戏。<br>
 
 例如：激活姓名张三丰门派武当，即可激活武当门派的张三丰玩家。 
 
-##2、可选门派:武当-恶人-日月-古墓-星宿-五毒<br>
+2、可选门派:武当-恶人-日月-古墓-星宿-五毒<br>
 
-##玩法说明
+## 玩法说明
 
 查看个人信息：xx
 
@@ -25,7 +25,7 @@
 
 个人地址token/nft查看：zh
 
-#秘籍
+# 秘籍
 1、签到的token可以增加攻击力和防御力
 
 2、产生的收益通过‘lq’领取到钱包转换成价值token
