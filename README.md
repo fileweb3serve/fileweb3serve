@@ -1,5 +1,5 @@
 ![image](https://raw.githubusercontent.com/fileweb3serve/document/main/logo.png)<br>
-# PVP Telegram Game <br>
+# PVP Telegram Chat Game <br>
 链武侠基于L2链上的非盈利性项目\n结合DEFI和NFT开放式玩法
 1、输入‘激活姓名+门派’即可开始游戏。<br>
 
