@@ -51,7 +51,7 @@
 9、同族的英雄击败族长就能成为新的族长
 
 
-![image](https://raw.githubusercontent.com/fileweb3serve/document/refs/heads/main/heroland3.jpg)<br>
+![image](https://raw.githubusercontent.com/fileweb3serve/document/refs/heads/main/heroland3.png)<br>
 
 
 
