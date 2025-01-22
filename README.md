@@ -2,7 +2,7 @@
 # PVP Telegram Chat Game <br>
 英雄大陆基于L2链上的非盈利性项目\n结合DEFI和NFT开放式玩法
 
-![youtube](https://youtu.be/EpzFttlMgLc)
+[![Video Title](https://img.youtube.com/vi/EpzFttlMgLc/0.jpg)](https://www.youtube.com/watch?v=EpzFttlMgLc)
 
 ## 玩法说明
 
