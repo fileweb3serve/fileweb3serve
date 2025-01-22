@@ -51,25 +51,9 @@
 9、同族的英雄击败族长就能成为新的族长
 
 
+![image](https://raw.githubusercontent.com/fileweb3serve/document/refs/heads/main/heroland1.jpg)<br>
 
 
-
-
-
-
-# PVP Game <br>
-
-##  Goerli TEST NETWORK    mud G <br>
-
-## BlockWorld
-
-## Game Link https://gamefi.bweos.in  <br>
-
-## INSTRUCTIONS https://www.youtube.com/watch?v=DJMiIXzduI4 <br>
-
-## White Paper
-
-https://github.com/fileweb3serve/document/blob/main/Block-World.pdf <br>
 
 
 
