@@ -1,6 +1,6 @@
 ![image](https://raw.githubusercontent.com/fileweb3serve/document/refs/heads/main/heroland.jpg)<br>
 # PVP Telegram Chat Game <br>
-英雄大陆基于L2链上的非盈利性项目\n结合DEFI和NFT开放式玩法
+英雄大陆基于L2链上的非盈利性项目\n结合DEFI和NFT开放式玩法<br>
 白皮书
 https://raw.githubusercontent.com/fileweb3serve/document/refs/heads/main/%E8%8B%B1%E9%9B%84%E5%A4%A7%E9%99%86.pdf
 
